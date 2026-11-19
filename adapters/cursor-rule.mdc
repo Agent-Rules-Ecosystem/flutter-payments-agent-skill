@@ -1,0 +1,7 @@
+---
+description: In-App Purchases (purchaseStream/completePurchase), RevenueCat entitlements, Stripe PaymentSheet and server-side receipt validation. ($pay)
+globs: ["**/*payment*.dart", "**/*billing*.dart", "**/*iap*.dart", "**/*subscription*.dart"]
+alwaysApply: false
+---
+
+Read and follow `.skill/flutter-payments-agent-skill/AGENTS.md` and `.skill/flutter-payments-agent-skill/SKILL.md`.
